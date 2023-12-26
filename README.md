@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Shalmoly Mondal</h1>
 <h3 align="center">Driven by Curiosity and Tech, Building a Smarter Future (with a dash of Art and Creativity!)</h3>
 
