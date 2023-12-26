@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shalmoly Mondal</h1>
-<h3 align="center">Driven by Curiosity and Tech, Building a Smarter Future (with a dash of Art and Creativity!)</h3>
+<h3 align="center">Driven by Curiosity and Tech, building a Smarter Future (with a dash of Art and Creativity!)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalmolymondal&label=Profile%20views&color=0e75b6&style=flat" alt="shalmolymondal" /> </p>
 
