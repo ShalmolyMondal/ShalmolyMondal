@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on **data science projects**
 
 - 📫 How to reach me **Shal.m@outlook.com**
+-  Reach me on LinkedIn: [https://www.linkedin.com/in/darceecaron/](https://www.linkedin.com/in/shalmoly-mondal/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
